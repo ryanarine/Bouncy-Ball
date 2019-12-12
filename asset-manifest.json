@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bouncy-Ball/static/css/main.83391ad6.chunk.css",
+    "main.js": "/Bouncy-Ball/static/js/main.e957d7a0.chunk.js",
+    "main.js.map": "/Bouncy-Ball/static/js/main.e957d7a0.chunk.js.map",
+    "runtime-main.js": "/Bouncy-Ball/static/js/runtime-main.1eb67051.js",
+    "runtime-main.js.map": "/Bouncy-Ball/static/js/runtime-main.1eb67051.js.map",
+    "static/js/2.fe916e73.chunk.js": "/Bouncy-Ball/static/js/2.fe916e73.chunk.js",
+    "static/js/2.fe916e73.chunk.js.map": "/Bouncy-Ball/static/js/2.fe916e73.chunk.js.map",
+    "index.html": "/Bouncy-Ball/index.html",
+    "precache-manifest.37e4e1fd2d1a9da4a480bf4f809711aa.js": "/Bouncy-Ball/precache-manifest.37e4e1fd2d1a9da4a480bf4f809711aa.js",
+    "service-worker.js": "/Bouncy-Ball/service-worker.js",
+    "static/css/main.83391ad6.chunk.css.map": "/Bouncy-Ball/static/css/main.83391ad6.chunk.css.map",
+    "static/js/2.fe916e73.chunk.js.LICENSE": "/Bouncy-Ball/static/js/2.fe916e73.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eb67051.js",
+    "static/js/2.fe916e73.chunk.js",
+    "static/css/main.83391ad6.chunk.css",
+    "static/js/main.e957d7a0.chunk.js"
+  ]
+}
